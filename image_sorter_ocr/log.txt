@@ -1,0 +1,1180 @@
+Error: Pictures folder not found!
+Error: Pictures folder not found!
+
+Processing 16673bdc.jpg...image name: 16673bdc.jpg
+B L4 125 WBO418Extracted text: B L4 125 WBO418
+Extracted text: B L4 125 WBO418
+{'16673bdc.jpg': 'B L4 125 WBO418'}
+image name: 16673bdc.jpg
+Extracted text:B L4 125 WBO418
+Cleaned text:BL4125WBO418
+block(gr1) = B
+level(gr2) = L
+level_num(gr3) = 4
+plot(gr4) = 
+plot_number(gr5) = 125
+window(gr6) = WB0
+window_number(gr7) = 418
+
+Processing 16673bdc.jpg...image name: 16673bdc.jpg
+B L4 125 WBO418Extracted text: B L4 125 WBO418
+Extracted text: B L4 125 WBO418
+{'16673bdc.jpg': 'B L4 125 WBO418'}
+image name: 16673bdc.jpg
+Extracted text:B L4 125 WBO418
+Cleaned text:BL4125WBO418
+block(gr1) = B
+level(gr2) = L
+level_num(gr3) = 4
+plot(gr4) = 
+plot_number(gr5) = 125
+window(gr6) = WB0
+window_number(gr7) = 418
+B_L4_Plot_125
+Moved to folder B_L4_Plot_125
+
+Processing complete! Results saved to extracted_text.txt
+Processing Изображение WhatsApp 2025-05-31 в 19.13.06_024e6883.jpg...image name: Изображение WhatsApp 2025-05-31 в 19.13.06_024e6883.jpg
+Error: Could not read image .\pics\Изображение WhatsApp 2025-05-31 в 19.13.06_024e6883.jpgNo text extracted from Изображение WhatsApp 2025-05-31 в 19.13.06_024e6883.jpg
+No text extracted from Изображение WhatsApp 2025-05-31 в 19.13.06_024e6883.jpg
+
+Processing Изображение WhatsApp 2025-05-31 в 19.13.06_58d45c66.jpg...image name: Изображение WhatsApp 2025-05-31 в 19.13.06_58d45c66.jpg
+Error: Could not read image .\pics\Изображение WhatsApp 2025-05-31 в 19.13.06_58d45c66.jpgNo text extracted from Изображение WhatsApp 2025-05-31 в 19.13.06_58d45c66.jpg
+No text extracted from Изображение WhatsApp 2025-05-31 в 19.13.06_58d45c66.jpg
+
+Processing Изображение WhatsApp 2025-05-31 в 19.13.06_71fa5e75.jpg...image name: Изображение WhatsApp 2025-05-31 в 19.13.06_71fa5e75.jpg
+Error: Could not read image .\pics\Изображение WhatsApp 2025-05-31 в 19.13.06_71fa5e75.jpgNo text extracted from Изображение WhatsApp 2025-05-31 в 19.13.06_71fa5e75.jpg
+No text extracted from Изображение WhatsApp 2025-05-31 в 19.13.06_71fa5e75.jpg
+
+Processing Изображение WhatsApp 2025-05-31 в 19.13.06_72a8e0c9.jpg...image name: Изображение WhatsApp 2025-05-31 в 19.13.06_72a8e0c9.jpg
+Error: Could not read image .\pics\Изображение WhatsApp 2025-05-31 в 19.13.06_72a8e0c9.jpgNo text extracted from Изображение WhatsApp 2025-05-31 в 19.13.06_72a8e0c9.jpg
+No text extracted from Изображение WhatsApp 2025-05-31 в 19.13.06_72a8e0c9.jpg
+
+Processing Изображение WhatsApp 2025-05-31 в 19.13.06_aacf554a.jpg...image name: Изображение WhatsApp 2025-05-31 в 19.13.06_aacf554a.jpg
+Error: Could not read image .\pics\Изображение WhatsApp 2025-05-31 в 19.13.06_aacf554a.jpgNo text extracted from Изображение WhatsApp 2025-05-31 в 19.13.06_aacf554a.jpg
+No text extracted from Изображение WhatsApp 2025-05-31 в 19.13.06_aacf554a.jpg
+
+Processing Изображение WhatsApp 2025-05-31 в 19.13.06_cc1dc964.jpg...image name: Изображение WhatsApp 2025-05-31 в 19.13.06_cc1dc964.jpg
+Error: Could not read image .\pics\Изображение WhatsApp 2025-05-31 в 19.13.06_cc1dc964.jpgNo text extracted from Изображение WhatsApp 2025-05-31 в 19.13.06_cc1dc964.jpg
+No text extracted from Изображение WhatsApp 2025-05-31 в 19.13.06_cc1dc964.jpg
+
+Processing Изображение WhatsApp 2025-05-31 в 19.13.06_cc2326a0.jpg...image name: Изображение WhatsApp 2025-05-31 в 19.13.06_cc2326a0.jpg
+Error: Could not read image .\pics\Изображение WhatsApp 2025-05-31 в 19.13.06_cc2326a0.jpgNo text extracted from Изображение WhatsApp 2025-05-31 в 19.13.06_cc2326a0.jpg
+No text extracted from Изображение WhatsApp 2025-05-31 в 19.13.06_cc2326a0.jpg
+
+Processing Изображение WhatsApp 2025-05-31 в 19.13.06_d70f32a4.jpg...image name: Изображение WhatsApp 2025-05-31 в 19.13.06_d70f32a4.jpg
+Error: Could not read image .\pics\Изображение WhatsApp 2025-05-31 в 19.13.06_d70f32a4.jpgNo text extracted from Изображение WhatsApp 2025-05-31 в 19.13.06_d70f32a4.jpg
+No text extracted from Изображение WhatsApp 2025-05-31 в 19.13.06_d70f32a4.jpg
+
+Processing Изображение WhatsApp 2025-05-31 в 19.13.07_02736c1b.jpg...image name: Изображение WhatsApp 2025-05-31 в 19.13.07_02736c1b.jpg
+Error: Could not read image .\pics\Изображение WhatsApp 2025-05-31 в 19.13.07_02736c1b.jpgNo text extracted from Изображение WhatsApp 2025-05-31 в 19.13.07_02736c1b.jpg
+No text extracted from Изображение WhatsApp 2025-05-31 в 19.13.07_02736c1b.jpg
+
+Processing Изображение WhatsApp 2025-05-31 в 19.13.07_25f1dadd.jpg...image name: Изображение WhatsApp 2025-05-31 в 19.13.07_25f1dadd.jpg
+Error: Could not read image .\pics\Изображение WhatsApp 2025-05-31 в 19.13.07_25f1dadd.jpgNo text extracted from Изображение WhatsApp 2025-05-31 в 19.13.07_25f1dadd.jpg
+No text extracted from Изображение WhatsApp 2025-05-31 в 19.13.07_25f1dadd.jpg
+
+Processing Изображение WhatsApp 2025-05-31 в 19.13.07_82029f24.jpg...image name: Изображение WhatsApp 2025-05-31 в 19.13.07_82029f24.jpg
+Error: Could not read image .\pics\Изображение WhatsApp 2025-05-31 в 19.13.07_82029f24.jpgNo text extracted from Изображение WhatsApp 2025-05-31 в 19.13.07_82029f24.jpg
+No text extracted from Изображение WhatsApp 2025-05-31 в 19.13.07_82029f24.jpg
+
+Processing Изображение WhatsApp 2025-05-31 в 19.13.07_88fdfe0f.jpg...image name: Изображение WhatsApp 2025-05-31 в 19.13.07_88fdfe0f.jpg
+Error: Could not read image .\pics\Изображение WhatsApp 2025-05-31 в 19.13.07_88fdfe0f.jpgNo text extracted from Изображение WhatsApp 2025-05-31 в 19.13.07_88fdfe0f.jpg
+No text extracted from Изображение WhatsApp 2025-05-31 в 19.13.07_88fdfe0f.jpg
+
+Processing Изображение WhatsApp 2025-05-31 в 19.13.07_96c2f0eb.jpg...image name: Изображение WhatsApp 2025-05-31 в 19.13.07_96c2f0eb.jpg
+Error: Could not read image .\pics\Изображение WhatsApp 2025-05-31 в 19.13.07_96c2f0eb.jpgNo text extracted from Изображение WhatsApp 2025-05-31 в 19.13.07_96c2f0eb.jpg
+No text extracted from Изображение WhatsApp 2025-05-31 в 19.13.07_96c2f0eb.jpg
+
+Processing Изображение WhatsApp 2025-05-31 в 19.13.07_b41368bb.jpg...image name: Изображение WhatsApp 2025-05-31 в 19.13.07_b41368bb.jpg
+Error: Could not read image .\pics\Изображение WhatsApp 2025-05-31 в 19.13.07_b41368bb.jpgNo text extracted from Изображение WhatsApp 2025-05-31 в 19.13.07_b41368bb.jpg
+No text extracted from Изображение WhatsApp 2025-05-31 в 19.13.07_b41368bb.jpg
+
+Processing Изображение WhatsApp 2025-05-31 в 19.13.07_d984956f.jpg...image name: Изображение WhatsApp 2025-05-31 в 19.13.07_d984956f.jpg
+Error: Could not read image .\pics\Изображение WhatsApp 2025-05-31 в 19.13.07_d984956f.jpgNo text extracted from Изображение WhatsApp 2025-05-31 в 19.13.07_d984956f.jpg
+No text extracted from Изображение WhatsApp 2025-05-31 в 19.13.07_d984956f.jpg
+
+Processing Изображение WhatsApp 2025-05-31 в 19.13.07_f094fd5d.jpg...image name: Изображение WhatsApp 2025-05-31 в 19.13.07_f094fd5d.jpg
+Error: Could not read image .\pics\Изображение WhatsApp 2025-05-31 в 19.13.07_f094fd5d.jpgNo text extracted from Изображение WhatsApp 2025-05-31 в 19.13.07_f094fd5d.jpg
+No text extracted from Изображение WhatsApp 2025-05-31 в 19.13.07_f094fd5d.jpg
+
+Processing Изображение WhatsApp 2025-05-31 в 19.13.07_f6f963e8.jpg...image name: Изображение WhatsApp 2025-05-31 в 19.13.07_f6f963e8.jpg
+Error: Could not read image .\pics\Изображение WhatsApp 2025-05-31 в 19.13.07_f6f963e8.jpgNo text extracted from Изображение WhatsApp 2025-05-31 в 19.13.07_f6f963e8.jpg
+No text extracted from Изображение WhatsApp 2025-05-31 в 19.13.07_f6f963e8.jpg
+
+Processing Изображение WhatsApp 2025-05-31 в 19.13.08_08a15a23.jpg...image name: Изображение WhatsApp 2025-05-31 в 19.13.08_08a15a23.jpg
+Error: Could not read image .\pics\Изображение WhatsApp 2025-05-31 в 19.13.08_08a15a23.jpgNo text extracted from Изображение WhatsApp 2025-05-31 в 19.13.08_08a15a23.jpg
+No text extracted from Изображение WhatsApp 2025-05-31 в 19.13.08_08a15a23.jpg
+
+Processing Изображение WhatsApp 2025-05-31 в 19.13.08_208b0de7.jpg...image name: Изображение WhatsApp 2025-05-31 в 19.13.08_208b0de7.jpg
+Error: Could not read image .\pics\Изображение WhatsApp 2025-05-31 в 19.13.08_208b0de7.jpgNo text extracted from Изображение WhatsApp 2025-05-31 в 19.13.08_208b0de7.jpg
+No text extracted from Изображение WhatsApp 2025-05-31 в 19.13.08_208b0de7.jpg
+
+Processing Изображение WhatsApp 2025-05-31 в 19.13.08_54c8296b.jpg...image name: Изображение WhatsApp 2025-05-31 в 19.13.08_54c8296b.jpg
+Error: Could not read image .\pics\Изображение WhatsApp 2025-05-31 в 19.13.08_54c8296b.jpgNo text extracted from Изображение WhatsApp 2025-05-31 в 19.13.08_54c8296b.jpg
+No text extracted from Изображение WhatsApp 2025-05-31 в 19.13.08_54c8296b.jpg
+
+Processing Изображение WhatsApp 2025-05-31 в 19.13.08_7b3c8ac1.jpg...image name: Изображение WhatsApp 2025-05-31 в 19.13.08_7b3c8ac1.jpg
+Error: Could not read image .\pics\Изображение WhatsApp 2025-05-31 в 19.13.08_7b3c8ac1.jpgNo text extracted from Изображение WhatsApp 2025-05-31 в 19.13.08_7b3c8ac1.jpg
+No text extracted from Изображение WhatsApp 2025-05-31 в 19.13.08_7b3c8ac1.jpg
+
+Processing Изображение WhatsApp 2025-05-31 в 19.13.08_9b53d43a.jpg...image name: Изображение WhatsApp 2025-05-31 в 19.13.08_9b53d43a.jpg
+Error: Could not read image .\pics\Изображение WhatsApp 2025-05-31 в 19.13.08_9b53d43a.jpgNo text extracted from Изображение WhatsApp 2025-05-31 в 19.13.08_9b53d43a.jpg
+No text extracted from Изображение WhatsApp 2025-05-31 в 19.13.08_9b53d43a.jpg
+
+Processing Изображение WhatsApp 2025-05-31 в 19.13.08_c958b2f5.jpg...image name: Изображение WhatsApp 2025-05-31 в 19.13.08_c958b2f5.jpg
+Error: Could not read image .\pics\Изображение WhatsApp 2025-05-31 в 19.13.08_c958b2f5.jpgNo text extracted from Изображение WhatsApp 2025-05-31 в 19.13.08_c958b2f5.jpg
+No text extracted from Изображение WhatsApp 2025-05-31 в 19.13.08_c958b2f5.jpg
+
+Processing Изображение WhatsApp 2025-05-31 в 19.13.08_f3d0f052.jpg...image name: Изображение WhatsApp 2025-05-31 в 19.13.08_f3d0f052.jpg
+Error: Could not read image .\pics\Изображение WhatsApp 2025-05-31 в 19.13.08_f3d0f052.jpgNo text extracted from Изображение WhatsApp 2025-05-31 в 19.13.08_f3d0f052.jpg
+No text extracted from Изображение WhatsApp 2025-05-31 в 19.13.08_f3d0f052.jpg
+
+Processing Изображение WhatsApp 2025-05-31 в 19.13.08_fb757d6c.jpg...image name: Изображение WhatsApp 2025-05-31 в 19.13.08_fb757d6c.jpg
+Error: Could not read image .\pics\Изображение WhatsApp 2025-05-31 в 19.13.08_fb757d6c.jpgNo text extracted from Изображение WhatsApp 2025-05-31 в 19.13.08_fb757d6c.jpg
+No text extracted from Изображение WhatsApp 2025-05-31 в 19.13.08_fb757d6c.jpg
+
+Processing Изображение WhatsApp 2025-05-31 в 19.13.09_13415ddd.jpg...image name: Изображение WhatsApp 2025-05-31 в 19.13.09_13415ddd.jpg
+Error: Could not read image .\pics\Изображение WhatsApp 2025-05-31 в 19.13.09_13415ddd.jpgNo text extracted from Изображение WhatsApp 2025-05-31 в 19.13.09_13415ddd.jpg
+No text extracted from Изображение WhatsApp 2025-05-31 в 19.13.09_13415ddd.jpg
+
+Processing Изображение WhatsApp 2025-05-31 в 19.13.09_1ead22e2.jpg...image name: Изображение WhatsApp 2025-05-31 в 19.13.09_1ead22e2.jpg
+Error: Could not read image .\pics\Изображение WhatsApp 2025-05-31 в 19.13.09_1ead22e2.jpgNo text extracted from Изображение WhatsApp 2025-05-31 в 19.13.09_1ead22e2.jpg
+No text extracted from Изображение WhatsApp 2025-05-31 в 19.13.09_1ead22e2.jpg
+
+Processing Изображение WhatsApp 2025-05-31 в 19.13.09_1f8307ca.jpg...image name: Изображение WhatsApp 2025-05-31 в 19.13.09_1f8307ca.jpg
+Error: Could not read image .\pics\Изображение WhatsApp 2025-05-31 в 19.13.09_1f8307ca.jpgNo text extracted from Изображение WhatsApp 2025-05-31 в 19.13.09_1f8307ca.jpg
+No text extracted from Изображение WhatsApp 2025-05-31 в 19.13.09_1f8307ca.jpg
+
+Processing Изображение WhatsApp 2025-05-31 в 19.13.09_46a2e86d.jpg...image name: Изображение WhatsApp 2025-05-31 в 19.13.09_46a2e86d.jpg
+Error: Could not read image .\pics\Изображение WhatsApp 2025-05-31 в 19.13.09_46a2e86d.jpgNo text extracted from Изображение WhatsApp 2025-05-31 в 19.13.09_46a2e86d.jpg
+No text extracted from Изображение WhatsApp 2025-05-31 в 19.13.09_46a2e86d.jpg
+
+Processing Изображение WhatsApp 2025-05-31 в 19.13.09_506e70f4.jpg...image name: Изображение WhatsApp 2025-05-31 в 19.13.09_506e70f4.jpg
+Error: Could not read image .\pics\Изображение WhatsApp 2025-05-31 в 19.13.09_506e70f4.jpgNo text extracted from Изображение WhatsApp 2025-05-31 в 19.13.09_506e70f4.jpg
+No text extracted from Изображение WhatsApp 2025-05-31 в 19.13.09_506e70f4.jpg
+{}
+
+Processing complete! Results saved to extracted_text.txt
+Processing BBLP9386.JPG...image name: BBLP9386.JPG
+B LI 97 WBO115Extracted text: B LI 97 WBO115
+Extracted text: B LI 97 WBO115
+
+Processing BILJ7195.JPG...image name: BILJ7195.JPG
+C L1176 WCO 104Extracted text: C L1176 WCO 104
+Extracted text: C L1176 WCO 104
+
+Processing BKBL8148.JPG...image name: BKBL8148.JPG
+B LI104 WBO1 12Extracted text: B LI104 WBO1 12
+Extracted text: B LI104 WBO1 12
+
+Processing BKSA3166.JPG...image name: BKSA3166.JPG
+B LI 97 WBO 115Extracted text: B LI 97 WBO 115
+Extracted text: B LI 97 WBO 115
+
+Processing BLIN3995.JPG...image name: BLIN3995.JPG
+B LI 99 EDBO 1 10Extracted text: B LI 99 EDBO 1 10
+Extracted text: B LI 99 EDBO 1 10
+
+Processing BYMB8392.JPG...image name: BYMB8392.JPG
+C L1177 WCO103Extracted text: C L1177 WCO103
+Extracted text: C L1177 WCO103
+
+Processing CANQ8988.JPG...image name: CANQ8988.JPG
+B L196 WBO113Extracted text: B L196 WBO113
+Extracted text: B L196 WBO113
+
+Processing CJFJ6528.JPG...image name: CJFJ6528.JPG
+CL1178 WCO 115Extracted text: CL1178 WCO 115
+Extracted text: CL1178 WCO 115
+
+Processing CLQR2953.JPG...image name: CLQR2953.JPG
+B LI 97 WBO114Extracted text: B LI 97 WBO114
+Extracted text: B LI 97 WBO114
+
+Processing CMXJ7270.JPG...image name: CMXJ7270.JPG
+C LI178 EDCO 107Extracted text: C LI178 EDCO 107
+Extracted text: C LI178 EDCO 107
+
+Processing CONT5364.JPG...image name: CONT5364.JPG
+B LI104 WBO1 11xfExtracted text: B LI104 WBO1 11xf
+Extracted text: B LI104 WBO1 11xf
+
+Processing CREL7363.JPG...image name: CREL7363.JPG
+B L1104 WBO111Extracted text: B L1104 WBO111
+Extracted text: B L1104 WBO111
+
+Processing CSWX3343.JPG...image name: CSWX3343.JPG
+C L1178 WCO 117Extracted text: C L1178 WCO 117
+Extracted text: C L1178 WCO 117
+
+Processing CXQK8264.JPG...image name: CXQK8264.JPG
+C L1177 WCO 119Extracted text: C L1177 WCO 119
+Extracted text: C L1177 WCO 119
+
+Processing CYHT9426.JPG...image name: CYHT9426.JPG
+C L1178 WCO1 13Extracted text: C L1178 WCO1 13
+Extracted text: C L1178 WCO1 13
+
+Processing DCTU1853.JPG...image name: DCTU1853.JPG
+BLI 98 EDBO 109Extracted text: BLI 98 EDBO 109
+Extracted text: BLI 98 EDBO 109
+
+Processing DDKM7397.JPG...image name: DDKM7397.JPG
+B LI 97 WBO115Extracted text: B LI 97 WBO115
+Extracted text: B LI 97 WBO115
+
+Processing DFKV5430.JPG...image name: DFKV5430.JPG
+B L1100 EDBO1 11Extracted text: B L1100 EDBO1 11
+Extracted text: B L1100 EDBO1 11
+
+Processing DGFS1159.JPG...image name: DGFS1159.JPG
+C L1174 WCO111Extracted text: C L1174 WCO111
+Extracted text: C L1174 WCO111
+{'BBLP9386.JPG': 'B LI 97 WBO115', 'BILJ7195.JPG': 'C L1176 WCO 104', 'BKBL8148.JPG': 'B LI104 WBO1 12', 'BKSA3166.JPG': 'B LI 97 WBO 115', 'BLIN3995.JPG': 'B LI 99 EDBO 1 10', 'BYMB8392.JPG': 'C L1177 WCO103', 'CANQ8988.JPG': 'B L196 WBO113', 'CJFJ6528.JPG': 'CL1178 WCO 115', 'CLQR2953.JPG': 'B LI 97 WBO114', 'CMXJ7270.JPG': 'C LI178 EDCO 107', 'CONT5364.JPG': 'B LI104 WBO1 11xf', 'CREL7363.JPG': 'B L1104 WBO111', 'CSWX3343.JPG': 'C L1178 WCO 117', 'CXQK8264.JPG': 'C L1177 WCO 119', 'CYHT9426.JPG': 'C L1178 WCO1 13', 'DCTU1853.JPG': 'BLI 98 EDBO 109', 'DDKM7397.JPG': 'B LI 97 WBO115', 'DFKV5430.JPG': 'B L1100 EDBO1 11', 'DGFS1159.JPG': 'C L1174 WCO111'}
+image name: BBLP9386.JPG
+Extracted text:B LI 97 WBO115
+Cleaned text:BLI97WBO115
+block(gr1) = B
+level(gr2) = L
+level_num(gr3) = 1
+plot(gr4) = 
+plot_number(gr5) = 97
+window(gr6) = WB0
+window_number(gr7) = 115
+B_L1_Plot_97
+Moved to folder B_L1_Plot_97
+image name: BILJ7195.JPG
+Extracted text:C L1176 WCO 104
+Cleaned text:CL1176WCO104
+block(gr1) = C
+level(gr2) = L
+level_num(gr3) = 11
+plot(gr4) = 
+plot_number(gr5) = 76
+window(gr6) = WC0
+window_number(gr7) = 104
+C_L11_Plot_76
+Plot 76 not found on level 11 of block C
+Moved to folder C_L1_Plot_176
+image name: BKBL8148.JPG
+Extracted text:B LI104 WBO1 12
+Cleaned text:BLI104WBO112
+block(gr1) = B
+level(gr2) = L
+level_num(gr3) = 1
+plot(gr4) = 
+plot_number(gr5) = 104
+window(gr6) = WB0
+window_number(gr7) = 112
+B_L1_Plot_104
+Moved to folder B_L1_Plot_104
+image name: BKSA3166.JPG
+Extracted text:B LI 97 WBO 115
+Cleaned text:BLI97WBO115
+block(gr1) = B
+level(gr2) = L
+level_num(gr3) = 1
+plot(gr4) = 
+plot_number(gr5) = 97
+window(gr6) = WB0
+window_number(gr7) = 115
+B_L1_Plot_97
+Moved to folder B_L1_Plot_97
+image name: BLIN3995.JPG
+Extracted text:B LI 99 EDBO 1 10
+Cleaned text:BLI99EDBO110
+block(gr1) = B
+level(gr2) = L
+level_num(gr3) = 1
+plot(gr4) = 
+plot_number(gr5) = 99
+window(gr6) = EDB0
+window_number(gr7) = 110
+B_L1_Plot_99
+Moved to folder B_L1_Plot_99
+image name: BYMB8392.JPG
+Extracted text:C L1177 WCO103
+Cleaned text:CL1177WCO103
+block(gr1) = C
+level(gr2) = L
+level_num(gr3) = 11
+plot(gr4) = 
+plot_number(gr5) = 77
+window(gr6) = WC0
+window_number(gr7) = 103
+C_L11_Plot_77
+Plot 77 not found on level 11 of block C
+Moved to folder C_L1_Plot_177
+image name: CANQ8988.JPG
+Extracted text:B L196 WBO113
+Cleaned text:BL196WBO113
+block(gr1) = B
+level(gr2) = L
+level_num(gr3) = 1
+plot(gr4) = 
+plot_number(gr5) = 96
+window(gr6) = WB0
+window_number(gr7) = 113
+B_L1_Plot_96
+Moved to folder B_L1_Plot_96
+image name: CJFJ6528.JPG
+Extracted text:CL1178 WCO 115
+Cleaned text:CL1178WCO115
+block(gr1) = C
+level(gr2) = L
+level_num(gr3) = 11
+plot(gr4) = 
+plot_number(gr5) = 78
+window(gr6) = WC0
+window_number(gr7) = 115
+C_L11_Plot_78
+Plot 78 not found on level 11 of block C
+Moved to folder C_L1_Plot_178
+image name: CLQR2953.JPG
+Extracted text:B LI 97 WBO114
+Cleaned text:BLI97WBO114
+block(gr1) = B
+level(gr2) = L
+level_num(gr3) = 1
+plot(gr4) = 
+plot_number(gr5) = 97
+window(gr6) = WB0
+window_number(gr7) = 114
+B_L1_Plot_97
+Moved to folder B_L1_Plot_97
+image name: CMXJ7270.JPG
+Extracted text:C LI178 EDCO 107
+Cleaned text:CLI178EDCO107
+block(gr1) = C
+level(gr2) = L
+level_num(gr3) = 1
+plot(gr4) = 
+plot_number(gr5) = 178
+window(gr6) = EDC0
+window_number(gr7) = 107
+C_L1_Plot_178
+Moved to folder C_L1_Plot_178
+image name: CONT5364.JPG
+Extracted text:B LI104 WBO1 11XF
+Cleaned text:BLI104WBO111XF
+block(gr1) = B
+level(gr2) = L
+level_num(gr3) = 1
+plot(gr4) = 
+plot_number(gr5) = 104
+window(gr6) = WB0
+window_number(gr7) = 111
+B_L1_Plot_104
+Moved to folder B_L1_Plot_104
+image name: CREL7363.JPG
+Extracted text:B L1104 WBO111
+Cleaned text:BL1104WBO111
+block(gr1) = B
+level(gr2) = L
+level_num(gr3) = 11
+plot(gr4) = 
+plot_number(gr5) = 04
+window(gr6) = WB0
+window_number(gr7) = 111
+B_L11_Plot_04
+Plot 04 not found on level 11 of block B
+Moved to folder B_L1_Plot_104
+image name: CSWX3343.JPG
+Extracted text:C L1178 WCO 117
+Cleaned text:CL1178WCO117
+block(gr1) = C
+level(gr2) = L
+level_num(gr3) = 11
+plot(gr4) = 
+plot_number(gr5) = 78
+window(gr6) = WC0
+window_number(gr7) = 117
+C_L11_Plot_78
+Plot 78 not found on level 11 of block C
+Moved to folder C_L1_Plot_178
+image name: CXQK8264.JPG
+Extracted text:C L1177 WCO 119
+Cleaned text:CL1177WCO119
+block(gr1) = C
+level(gr2) = L
+level_num(gr3) = 11
+plot(gr4) = 
+plot_number(gr5) = 77
+window(gr6) = WC0
+window_number(gr7) = 119
+C_L11_Plot_77
+Plot 77 not found on level 11 of block C
+Moved to folder C_L1_Plot_177
+image name: CYHT9426.JPG
+Extracted text:C L1178 WCO1 13
+Cleaned text:CL1178WCO113
+block(gr1) = C
+level(gr2) = L
+level_num(gr3) = 11
+plot(gr4) = 
+plot_number(gr5) = 78
+window(gr6) = WC0
+window_number(gr7) = 113
+C_L11_Plot_78
+Plot 78 not found on level 11 of block C
+Moved to folder C_L1_Plot_178
+image name: DCTU1853.JPG
+Extracted text:BLI 98 EDBO 109
+Cleaned text:BLI98EDBO109
+block(gr1) = B
+level(gr2) = L
+level_num(gr3) = 1
+plot(gr4) = 
+plot_number(gr5) = 98
+window(gr6) = EDB0
+window_number(gr7) = 109
+B_L1_Plot_98
+Moved to folder B_L1_Plot_98
+image name: DDKM7397.JPG
+Extracted text:B LI 97 WBO115
+Cleaned text:BLI97WBO115
+block(gr1) = B
+level(gr2) = L
+level_num(gr3) = 1
+plot(gr4) = 
+plot_number(gr5) = 97
+window(gr6) = WB0
+window_number(gr7) = 115
+B_L1_Plot_97
+Moved to folder B_L1_Plot_97
+image name: DFKV5430.JPG
+Extracted text:B L1100 EDBO1 11
+Cleaned text:BL1100EDBO111
+block(gr1) = B
+level(gr2) = L
+level_num(gr3) = 11
+plot(gr4) = 
+plot_number(gr5) = 00
+window(gr6) = EDB0
+window_number(gr7) = 111
+B_L11_Plot_00
+Plot number not in range 1-456 
+image name: DGFS1159.JPG
+Extracted text:C L1174 WCO111
+Cleaned text:CL1174WCO111
+block(gr1) = C
+level(gr2) = L
+level_num(gr3) = 11
+plot(gr4) = 
+plot_number(gr5) = 74
+window(gr6) = WC0
+window_number(gr7) = 111
+C_L11_Plot_74
+Plot 74 not found on level 11 of block C
+Moved to folder C_L1_Plot_174
+
+Processing complete! Results saved to extracted_text.txt
+Processing 16673bdc.jpg...image name: 16673bdc.jpg
+
+Processing 16673bdc.jpg...image name: 16673bdc.jpg
+B L4 125 WBO418Extracted text: B L4 125 WBO418
+Extracted text: B L4 125 WBO418
+
+Processing BBLP9386.JPG...image name: BBLP9386.JPG
+B LI 97 WBO115Extracted text: B LI 97 WBO115
+Extracted text: B LI 97 WBO115
+
+Processing BILJ7195.JPG...image name: BILJ7195.JPG
+C L1176 WCO 104Extracted text: C L1176 WCO 104
+Extracted text: C L1176 WCO 104
+
+Processing BKBL8148.JPG...image name: BKBL8148.JPG
+B LI104 WBO1 12Extracted text: B LI104 WBO1 12
+Extracted text: B LI104 WBO1 12
+
+Processing BKSA3166.JPG...image name: BKSA3166.JPG
+B LI 97 WBO 115Extracted text: B LI 97 WBO 115
+Extracted text: B LI 97 WBO 115
+
+Processing BLIN3995.JPG...image name: BLIN3995.JPG
+B LI 99 EDBO 1 10Extracted text: B LI 99 EDBO 1 10
+Extracted text: B LI 99 EDBO 1 10
+
+Processing BYMB8392 — копия.JPG...image name: BYMB8392 — копия.JPG
+Error: Could not read image .\pics\BYMB8392 — копия.JPGNo text extracted from BYMB8392 — копия.JPG
+No text extracted from BYMB8392 — копия.JPG
+
+Processing BYMB8392.JPG...image name: BYMB8392.JPG
+C L1177 WCO103Extracted text: C L1177 WCO103
+Extracted text: C L1177 WCO103
+
+Processing CANQ8988.JPG...image name: CANQ8988.JPG
+B L196 WBO113Extracted text: B L196 WBO113
+Extracted text: B L196 WBO113
+
+Processing CJFJ6528.JPG...image name: CJFJ6528.JPG
+CL1178 WCO 115Extracted text: CL1178 WCO 115
+Extracted text: CL1178 WCO 115
+
+Processing CLQR2953.JPG...image name: CLQR2953.JPG
+B LI 97 WBO114Extracted text: B LI 97 WBO114
+Extracted text: B LI 97 WBO114
+
+Processing CMXJ7270.JPG...image name: CMXJ7270.JPG
+C LI178 EDCO 107Extracted text: C LI178 EDCO 107
+Extracted text: C LI178 EDCO 107
+
+Processing CONT5364.JPG...image name: CONT5364.JPG
+B LI104 WBO1 11xfExtracted text: B LI104 WBO1 11xf
+Extracted text: B LI104 WBO1 11xf
+
+Processing CREL7363.JPG...image name: CREL7363.JPG
+B L1104 WBO111Extracted text: B L1104 WBO111
+Extracted text: B L1104 WBO111
+
+Processing CSWX3343.JPG...image name: CSWX3343.JPG
+C L1178 WCO 117Extracted text: C L1178 WCO 117
+Extracted text: C L1178 WCO 117
+
+Processing CXQK8264.JPG...image name: CXQK8264.JPG
+C L1177 WCO 119Extracted text: C L1177 WCO 119
+Extracted text: C L1177 WCO 119
+
+Processing CYHT9426.JPG...image name: CYHT9426.JPG
+C L1178 WCO1 13Extracted text: C L1178 WCO1 13
+Extracted text: C L1178 WCO1 13
+
+Processing DCTU1853.JPG...image name: DCTU1853.JPG
+BLI 98 EDBO 109Extracted text: BLI 98 EDBO 109
+Extracted text: BLI 98 EDBO 109
+
+Processing DDKM7397.JPG...image name: DDKM7397.JPG
+B LI 97 WBO115Extracted text: B LI 97 WBO115
+Extracted text: B LI 97 WBO115
+
+Processing DFKV5430.JPG...image name: DFKV5430.JPG
+B L1100 EDBO1 11Extracted text: B L1100 EDBO1 11
+Extracted text: B L1100 EDBO1 11
+
+Processing DGFS1159.JPG...image name: DGFS1159.JPG
+C L1174 WCO111Extracted text: C L1174 WCO111
+Extracted text: C L1174 WCO111
+{'16673bdc.jpg': 'B L4 125 WBO418', 'BBLP9386.JPG': 'B LI 97 WBO115', 'BILJ7195.JPG': 'C L1176 WCO 104', 'BKBL8148.JPG': 'B LI104 WBO1 12', 'BKSA3166.JPG': 'B LI 97 WBO 115', 'BLIN3995.JPG': 'B LI 99 EDBO 1 10', 'BYMB8392.JPG': 'C L1177 WCO103', 'CANQ8988.JPG': 'B L196 WBO113', 'CJFJ6528.JPG': 'CL1178 WCO 115', 'CLQR2953.JPG': 'B LI 97 WBO114', 'CMXJ7270.JPG': 'C LI178 EDCO 107', 'CONT5364.JPG': 'B LI104 WBO1 11xf', 'CREL7363.JPG': 'B L1104 WBO111', 'CSWX3343.JPG': 'C L1178 WCO 117', 'CXQK8264.JPG': 'C L1177 WCO 119', 'CYHT9426.JPG': 'C L1178 WCO1 13', 'DCTU1853.JPG': 'BLI 98 EDBO 109', 'DDKM7397.JPG': 'B LI 97 WBO115', 'DFKV5430.JPG': 'B L1100 EDBO1 11', 'DGFS1159.JPG': 'C L1174 WCO111'}
+image name: 16673bdc.jpg
+Extracted text:B L4 125 WBO418
+Cleaned text:BL4125WBO418
+block(gr1) = B
+level(gr2) = L
+level_num(gr3) = 4
+plot(gr4) = 
+plot_number(gr5) = 125
+window(gr6) = WB0
+window_number(gr7) = 418
+B_L4_Plot_125
+Moved to folder B_L4_Plot_125
+image name: BBLP9386.JPG
+Extracted text:B LI 97 WBO115
+Cleaned text:BLI97WBO115
+block(gr1) = B
+level(gr2) = L
+level_num(gr3) = 1
+plot(gr4) = 
+plot_number(gr5) = 97
+window(gr6) = WB0
+window_number(gr7) = 115
+B_L1_Plot_97
+Moved to folder B_L1_Plot_97
+image name: BILJ7195.JPG
+Extracted text:C L1176 WCO 104
+Cleaned text:CL1176WCO104
+block(gr1) = C
+level(gr2) = L
+level_num(gr3) = 11
+plot(gr4) = 
+plot_number(gr5) = 76
+window(gr6) = WC0
+window_number(gr7) = 104
+C_L11_Plot_76
+Plot 76 not found on level 11 of block C
+Moved to folder C_L1_Plot_176
+image name: BKBL8148.JPG
+Extracted text:B LI104 WBO1 12
+Cleaned text:BLI104WBO112
+block(gr1) = B
+level(gr2) = L
+level_num(gr3) = 1
+plot(gr4) = 
+plot_number(gr5) = 104
+window(gr6) = WB0
+window_number(gr7) = 112
+B_L1_Plot_104
+Moved to folder B_L1_Plot_104
+image name: BKSA3166.JPG
+Extracted text:B LI 97 WBO 115
+Cleaned text:BLI97WBO115
+block(gr1) = B
+level(gr2) = L
+level_num(gr3) = 1
+plot(gr4) = 
+plot_number(gr5) = 97
+window(gr6) = WB0
+window_number(gr7) = 115
+B_L1_Plot_97
+Moved to folder B_L1_Plot_97
+image name: BLIN3995.JPG
+Extracted text:B LI 99 EDBO 1 10
+Cleaned text:BLI99EDBO110
+block(gr1) = B
+level(gr2) = L
+level_num(gr3) = 1
+plot(gr4) = 
+plot_number(gr5) = 99
+window(gr6) = EDB0
+window_number(gr7) = 110
+B_L1_Plot_99
+Moved to folder B_L1_Plot_99
+image name: BYMB8392.JPG
+Extracted text:C L1177 WCO103
+Cleaned text:CL1177WCO103
+block(gr1) = C
+level(gr2) = L
+level_num(gr3) = 11
+plot(gr4) = 
+plot_number(gr5) = 77
+window(gr6) = WC0
+window_number(gr7) = 103
+C_L11_Plot_77
+Plot 77 not found on level 11 of block C
+Moved to folder C_L1_Plot_177
+image name: CANQ8988.JPG
+Extracted text:B L196 WBO113
+Cleaned text:BL196WBO113
+block(gr1) = B
+level(gr2) = L
+level_num(gr3) = 1
+plot(gr4) = 
+plot_number(gr5) = 96
+window(gr6) = WB0
+window_number(gr7) = 113
+B_L1_Plot_96
+Moved to folder B_L1_Plot_96
+image name: CJFJ6528.JPG
+Extracted text:CL1178 WCO 115
+Cleaned text:CL1178WCO115
+block(gr1) = C
+level(gr2) = L
+level_num(gr3) = 11
+plot(gr4) = 
+plot_number(gr5) = 78
+window(gr6) = WC0
+window_number(gr7) = 115
+C_L11_Plot_78
+Plot 78 not found on level 11 of block C
+Moved to folder C_L1_Plot_178
+image name: CLQR2953.JPG
+Extracted text:B LI 97 WBO114
+Cleaned text:BLI97WBO114
+block(gr1) = B
+level(gr2) = L
+level_num(gr3) = 1
+plot(gr4) = 
+plot_number(gr5) = 97
+window(gr6) = WB0
+window_number(gr7) = 114
+B_L1_Plot_97
+Moved to folder B_L1_Plot_97
+image name: CMXJ7270.JPG
+Extracted text:C LI178 EDCO 107
+Cleaned text:CLI178EDCO107
+block(gr1) = C
+level(gr2) = L
+level_num(gr3) = 1
+plot(gr4) = 
+plot_number(gr5) = 178
+window(gr6) = EDC0
+window_number(gr7) = 107
+C_L1_Plot_178
+Moved to folder C_L1_Plot_178
+image name: CONT5364.JPG
+Extracted text:B LI104 WBO1 11XF
+Cleaned text:BLI104WBO111XF
+block(gr1) = B
+level(gr2) = L
+level_num(gr3) = 1
+plot(gr4) = 
+plot_number(gr5) = 104
+window(gr6) = WB0
+window_number(gr7) = 111
+B_L1_Plot_104
+Moved to folder B_L1_Plot_104
+image name: CREL7363.JPG
+Extracted text:B L1104 WBO111
+Cleaned text:BL1104WBO111
+block(gr1) = B
+level(gr2) = L
+level_num(gr3) = 11
+plot(gr4) = 
+plot_number(gr5) = 04
+window(gr6) = WB0
+window_number(gr7) = 111
+B_L11_Plot_04
+Plot 04 not found on level 11 of block B
+Moved to folder B_L1_Plot_104
+image name: CSWX3343.JPG
+Extracted text:C L1178 WCO 117
+Cleaned text:CL1178WCO117
+block(gr1) = C
+level(gr2) = L
+level_num(gr3) = 11
+plot(gr4) = 
+plot_number(gr5) = 78
+window(gr6) = WC0
+window_number(gr7) = 117
+C_L11_Plot_78
+Plot 78 not found on level 11 of block C
+Moved to folder C_L1_Plot_178
+image name: CXQK8264.JPG
+Extracted text:C L1177 WCO 119
+Cleaned text:CL1177WCO119
+block(gr1) = C
+level(gr2) = L
+level_num(gr3) = 11
+plot(gr4) = 
+plot_number(gr5) = 77
+window(gr6) = WC0
+window_number(gr7) = 119
+C_L11_Plot_77
+Plot 77 not found on level 11 of block C
+Moved to folder C_L1_Plot_177
+image name: CYHT9426.JPG
+Extracted text:C L1178 WCO1 13
+Cleaned text:CL1178WCO113
+block(gr1) = C
+level(gr2) = L
+level_num(gr3) = 11
+plot(gr4) = 
+plot_number(gr5) = 78
+window(gr6) = WC0
+window_number(gr7) = 113
+C_L11_Plot_78
+Plot 78 not found on level 11 of block C
+Moved to folder C_L1_Plot_178
+image name: DCTU1853.JPG
+Extracted text:BLI 98 EDBO 109
+Cleaned text:BLI98EDBO109
+block(gr1) = B
+level(gr2) = L
+level_num(gr3) = 1
+plot(gr4) = 
+plot_number(gr5) = 98
+window(gr6) = EDB0
+window_number(gr7) = 109
+B_L1_Plot_98
+Moved to folder B_L1_Plot_98
+image name: DDKM7397.JPG
+Extracted text:B LI 97 WBO115
+Cleaned text:BLI97WBO115
+block(gr1) = B
+level(gr2) = L
+level_num(gr3) = 1
+plot(gr4) = 
+plot_number(gr5) = 97
+window(gr6) = WB0
+window_number(gr7) = 115
+B_L1_Plot_97
+Moved to folder B_L1_Plot_97
+image name: DFKV5430.JPG
+Extracted text:B L1100 EDBO1 11
+Cleaned text:BL1100EDBO111
+block(gr1) = B
+level(gr2) = L
+level_num(gr3) = 11
+plot(gr4) = 
+plot_number(gr5) = 00
+window(gr6) = EDB0
+window_number(gr7) = 111
+B_L11_Plot_00
+Plot number not in range 1-456 
+image name: DGFS1159.JPG
+Extracted text:C L1174 WCO111
+Cleaned text:CL1174WCO111
+block(gr1) = C
+level(gr2) = L
+level_num(gr3) = 11
+plot(gr4) = 
+plot_number(gr5) = 74
+window(gr6) = WC0
+window_number(gr7) = 111
+C_L11_Plot_74
+Plot 74 not found on level 11 of block C
+Moved to folder C_L1_Plot_174
+
+Processing complete! Results saved to extracted_text.txt
+Processing 16673bdc.jpg...image name: 16673bdc.jpg
+B L4 125 WBO418Extracted text: B L4 125 WBO418
+Extracted text: B L4 125 WBO418
+
+Processing BBLP9386.JPG...image name: BBLP9386.JPG
+B LI 97 WBO115Extracted text: B LI 97 WBO115
+Extracted text: B LI 97 WBO115
+
+Processing BILJ7195.JPG...image name: BILJ7195.JPG
+C L1176 WCO 104Extracted text: C L1176 WCO 104
+Extracted text: C L1176 WCO 104
+
+Processing BKBL8148.JPG...image name: BKBL8148.JPG
+B LI104 WBO1 12Extracted text: B LI104 WBO1 12
+Extracted text: B LI104 WBO1 12
+
+Processing BKSA3166.JPG...image name: BKSA3166.JPG
+B LI 97 WBO 115Extracted text: B LI 97 WBO 115
+Extracted text: B LI 97 WBO 115
+
+Processing BLIN3995.JPG...image name: BLIN3995.JPG
+B LI 99 EDBO 1 10Extracted text: B LI 99 EDBO 1 10
+Extracted text: B LI 99 EDBO 1 10
+
+Processing BYMB8392 — копия.JPG...image name: BYMB8392 — копия.JPG
+Error: Could not read image D:\WORK\Horand_LTD\TASKS_DOING_NOW\horand-image-sorter-ocr_update\pics\BYMB8392 — копия.JPGNo text extracted from BYMB8392 — копия.JPG
+No text extracted from BYMB8392 — копия.JPG
+
+Processing BYMB8392.JPG...image name: BYMB8392.JPG
+C L1177 WCO103Extracted text: C L1177 WCO103
+Extracted text: C L1177 WCO103
+
+Processing CANQ8988.JPG...image name: CANQ8988.JPG
+B L196 WBO113Extracted text: B L196 WBO113
+Extracted text: B L196 WBO113
+
+Processing CJFJ6528.JPG...image name: CJFJ6528.JPG
+CL1178 WCO 115Extracted text: CL1178 WCO 115
+Extracted text: CL1178 WCO 115
+
+Processing CLQR2953.JPG...image name: CLQR2953.JPG
+B LI 97 WBO114Extracted text: B LI 97 WBO114
+Extracted text: B LI 97 WBO114
+
+Processing CMXJ7270.JPG...image name: CMXJ7270.JPG
+C LI178 EDCO 107Extracted text: C LI178 EDCO 107
+Extracted text: C LI178 EDCO 107
+
+Processing CONT5364.JPG...image name: CONT5364.JPG
+B LI104 WBO1 11xfExtracted text: B LI104 WBO1 11xf
+Extracted text: B LI104 WBO1 11xf
+
+Processing CREL7363.JPG...image name: CREL7363.JPG
+B L1104 WBO111Extracted text: B L1104 WBO111
+Extracted text: B L1104 WBO111
+
+Processing CSWX3343.JPG...image name: CSWX3343.JPG
+C L1178 WCO 117Extracted text: C L1178 WCO 117
+Extracted text: C L1178 WCO 117
+
+Processing CXQK8264.JPG...image name: CXQK8264.JPG
+C L1177 WCO 119Extracted text: C L1177 WCO 119
+Extracted text: C L1177 WCO 119
+
+Processing CYHT9426.JPG...image name: CYHT9426.JPG
+C L1178 WCO1 13Extracted text: C L1178 WCO1 13
+Extracted text: C L1178 WCO1 13
+
+Processing DCTU1853.JPG...image name: DCTU1853.JPG
+BLI 98 EDBO 109Extracted text: BLI 98 EDBO 109
+Extracted text: BLI 98 EDBO 109
+
+Processing DDKM7397.JPG...image name: DDKM7397.JPG
+B LI 97 WBO115Extracted text: B LI 97 WBO115
+Extracted text: B LI 97 WBO115
+
+Processing DFKV5430.JPG...image name: DFKV5430.JPG
+B L1100 EDBO1 11Extracted text: B L1100 EDBO1 11
+Extracted text: B L1100 EDBO1 11
+
+Processing DGFS1159.JPG...image name: DGFS1159.JPG
+C L1174 WCO111Extracted text: C L1174 WCO111
+Extracted text: C L1174 WCO111
+
+Processing Ошибка с кирилицей.png...image name: Ошибка с кирилицей.png
+Error: Could not read image D:\WORK\Horand_LTD\TASKS_DOING_NOW\horand-image-sorter-ocr_update\pics\Ошибка с кирилицей.pngNo text extracted from Ошибка с кирилицей.png
+No text extracted from Ошибка с кирилицей.png
+{'16673bdc.jpg': 'B L4 125 WBO418', 'BBLP9386.JPG': 'B LI 97 WBO115', 'BILJ7195.JPG': 'C L1176 WCO 104', 'BKBL8148.JPG': 'B LI104 WBO1 12', 'BKSA3166.JPG': 'B LI 97 WBO 115', 'BLIN3995.JPG': 'B LI 99 EDBO 1 10', 'BYMB8392.JPG': 'C L1177 WCO103', 'CANQ8988.JPG': 'B L196 WBO113', 'CJFJ6528.JPG': 'CL1178 WCO 115', 'CLQR2953.JPG': 'B LI 97 WBO114', 'CMXJ7270.JPG': 'C LI178 EDCO 107', 'CONT5364.JPG': 'B LI104 WBO1 11xf', 'CREL7363.JPG': 'B L1104 WBO111', 'CSWX3343.JPG': 'C L1178 WCO 117', 'CXQK8264.JPG': 'C L1177 WCO 119', 'CYHT9426.JPG': 'C L1178 WCO1 13', 'DCTU1853.JPG': 'BLI 98 EDBO 109', 'DDKM7397.JPG': 'B LI 97 WBO115', 'DFKV5430.JPG': 'B L1100 EDBO1 11', 'DGFS1159.JPG': 'C L1174 WCO111'}
+image name: 16673bdc.jpg
+Extracted text:B L4 125 WBO418
+Cleaned text:BL4125WBO418
+block(gr1) = B
+level(gr2) = L
+level_num(gr3) = 4
+plot(gr4) = 
+plot_number(gr5) = 125
+window(gr6) = WB0
+window_number(gr7) = 418
+B_L4_Plot_125
+Moved to folder B_L4_Plot_125
+image name: BBLP9386.JPG
+Extracted text:B LI 97 WBO115
+Cleaned text:BLI97WBO115
+block(gr1) = B
+level(gr2) = L
+level_num(gr3) = 1
+plot(gr4) = 
+plot_number(gr5) = 97
+window(gr6) = WB0
+window_number(gr7) = 115
+B_L1_Plot_97
+Moved to folder B_L1_Plot_97
+image name: BILJ7195.JPG
+Extracted text:C L1176 WCO 104
+Cleaned text:CL1176WCO104
+block(gr1) = C
+level(gr2) = L
+level_num(gr3) = 11
+plot(gr4) = 
+plot_number(gr5) = 76
+window(gr6) = WC0
+window_number(gr7) = 104
+C_L11_Plot_76
+Plot 76 not found on level 11 of block C
+Moved to folder C_L1_Plot_176
+image name: BKBL8148.JPG
+Extracted text:B LI104 WBO1 12
+Cleaned text:BLI104WBO112
+block(gr1) = B
+level(gr2) = L
+level_num(gr3) = 1
+plot(gr4) = 
+plot_number(gr5) = 104
+window(gr6) = WB0
+window_number(gr7) = 112
+B_L1_Plot_104
+Moved to folder B_L1_Plot_104
+image name: BKSA3166.JPG
+Extracted text:B LI 97 WBO 115
+Cleaned text:BLI97WBO115
+block(gr1) = B
+level(gr2) = L
+level_num(gr3) = 1
+plot(gr4) = 
+plot_number(gr5) = 97
+window(gr6) = WB0
+window_number(gr7) = 115
+B_L1_Plot_97
+Moved to folder B_L1_Plot_97
+image name: BLIN3995.JPG
+Extracted text:B LI 99 EDBO 1 10
+Cleaned text:BLI99EDBO110
+block(gr1) = B
+level(gr2) = L
+level_num(gr3) = 1
+plot(gr4) = 
+plot_number(gr5) = 99
+window(gr6) = EDB0
+window_number(gr7) = 110
+B_L1_Plot_99
+Moved to folder B_L1_Plot_99
+image name: BYMB8392.JPG
+Extracted text:C L1177 WCO103
+Cleaned text:CL1177WCO103
+block(gr1) = C
+level(gr2) = L
+level_num(gr3) = 11
+plot(gr4) = 
+plot_number(gr5) = 77
+window(gr6) = WC0
+window_number(gr7) = 103
+C_L11_Plot_77
+Plot 77 not found on level 11 of block C
+Moved to folder C_L1_Plot_177
+image name: CANQ8988.JPG
+Extracted text:B L196 WBO113
+Cleaned text:BL196WBO113
+block(gr1) = B
+level(gr2) = L
+level_num(gr3) = 1
+plot(gr4) = 
+plot_number(gr5) = 96
+window(gr6) = WB0
+window_number(gr7) = 113
+B_L1_Plot_96
+Moved to folder B_L1_Plot_96
+image name: CJFJ6528.JPG
+Extracted text:CL1178 WCO 115
+Cleaned text:CL1178WCO115
+block(gr1) = C
+level(gr2) = L
+level_num(gr3) = 11
+plot(gr4) = 
+plot_number(gr5) = 78
+window(gr6) = WC0
+window_number(gr7) = 115
+C_L11_Plot_78
+Plot 78 not found on level 11 of block C
+Moved to folder C_L1_Plot_178
+image name: CLQR2953.JPG
+Extracted text:B LI 97 WBO114
+Cleaned text:BLI97WBO114
+block(gr1) = B
+level(gr2) = L
+level_num(gr3) = 1
+plot(gr4) = 
+plot_number(gr5) = 97
+window(gr6) = WB0
+window_number(gr7) = 114
+B_L1_Plot_97
+Moved to folder B_L1_Plot_97
+image name: CMXJ7270.JPG
+Extracted text:C LI178 EDCO 107
+Cleaned text:CLI178EDCO107
+block(gr1) = C
+level(gr2) = L
+level_num(gr3) = 1
+plot(gr4) = 
+plot_number(gr5) = 178
+window(gr6) = EDC0
+window_number(gr7) = 107
+C_L1_Plot_178
+Moved to folder C_L1_Plot_178
+image name: CONT5364.JPG
+Extracted text:B LI104 WBO1 11XF
+Cleaned text:BLI104WBO111XF
+block(gr1) = B
+level(gr2) = L
+level_num(gr3) = 1
+plot(gr4) = 
+plot_number(gr5) = 104
+window(gr6) = WB0
+window_number(gr7) = 111
+B_L1_Plot_104
+Moved to folder B_L1_Plot_104
+image name: CREL7363.JPG
+Extracted text:B L1104 WBO111
+Cleaned text:BL1104WBO111
+block(gr1) = B
+level(gr2) = L
+level_num(gr3) = 11
+plot(gr4) = 
+plot_number(gr5) = 04
+window(gr6) = WB0
+window_number(gr7) = 111
+B_L11_Plot_04
+Plot 04 not found on level 11 of block B
+Moved to folder B_L1_Plot_104
+image name: CSWX3343.JPG
+Extracted text:C L1178 WCO 117
+Cleaned text:CL1178WCO117
+block(gr1) = C
+level(gr2) = L
+level_num(gr3) = 11
+plot(gr4) = 
+plot_number(gr5) = 78
+window(gr6) = WC0
+window_number(gr7) = 117
+C_L11_Plot_78
+Plot 78 not found on level 11 of block C
+Moved to folder C_L1_Plot_178
+image name: CXQK8264.JPG
+Extracted text:C L1177 WCO 119
+Cleaned text:CL1177WCO119
+block(gr1) = C
+level(gr2) = L
+level_num(gr3) = 11
+plot(gr4) = 
+plot_number(gr5) = 77
+window(gr6) = WC0
+window_number(gr7) = 119
+C_L11_Plot_77
+Plot 77 not found on level 11 of block C
+Moved to folder C_L1_Plot_177
+image name: CYHT9426.JPG
+Extracted text:C L1178 WCO1 13
+Cleaned text:CL1178WCO113
+block(gr1) = C
+level(gr2) = L
+level_num(gr3) = 11
+plot(gr4) = 
+plot_number(gr5) = 78
+window(gr6) = WC0
+window_number(gr7) = 113
+C_L11_Plot_78
+Plot 78 not found on level 11 of block C
+Moved to folder C_L1_Plot_178
+image name: DCTU1853.JPG
+Extracted text:BLI 98 EDBO 109
+Cleaned text:BLI98EDBO109
+block(gr1) = B
+level(gr2) = L
+level_num(gr3) = 1
+plot(gr4) = 
+plot_number(gr5) = 98
+window(gr6) = EDB0
+window_number(gr7) = 109
+B_L1_Plot_98
+Moved to folder B_L1_Plot_98
+image name: DDKM7397.JPG
+Extracted text:B LI 97 WBO115
+Cleaned text:BLI97WBO115
+block(gr1) = B
+level(gr2) = L
+level_num(gr3) = 1
+plot(gr4) = 
+plot_number(gr5) = 97
+window(gr6) = WB0
+window_number(gr7) = 115
+B_L1_Plot_97
+Moved to folder B_L1_Plot_97
+image name: DFKV5430.JPG
+Extracted text:B L1100 EDBO1 11
+Cleaned text:BL1100EDBO111
+block(gr1) = B
+level(gr2) = L
+level_num(gr3) = 11
+plot(gr4) = 
+plot_number(gr5) = 00
+window(gr6) = EDB0
+window_number(gr7) = 111
+B_L11_Plot_00
+Plot 00 not found on level 11 of block B
+Moved to folder B_L1_Plot_100
+image name: DGFS1159.JPG
+Extracted text:C L1174 WCO111
+Cleaned text:CL1174WCO111
+block(gr1) = C
+level(gr2) = L
+level_num(gr3) = 11
+plot(gr4) = 
+plot_number(gr5) = 74
+window(gr6) = WC0
+window_number(gr7) = 111
+C_L11_Plot_74
+Plot 74 not found on level 11 of block C
+Moved to folder C_L1_Plot_174
+
+Processing complete! Results saved to extracted_text.txt
+Processing BYMB8392 — копия.JPG...image name: BYMB8392 — копия.JPG
+Error: Could not read image D:\WORK\Horand_LTD\TASKS_DOING_NOW\horand-image-sorter-ocr_update\pics\BYMB8392 — копия.JPGNo text extracted from BYMB8392 — копия.JPG
+No text extracted from BYMB8392 — копия.JPG
+
+Processing Ошибка с кирилицей.png...image name: Ошибка с кирилицей.png
+Error: Could not read image D:\WORK\Horand_LTD\TASKS_DOING_NOW\horand-image-sorter-ocr_update\pics\Ошибка с кирилицей.pngNo text extracted from Ошибка с кирилицей.png
+No text extracted from Ошибка с кирилицей.png
+{}
+
+Processing complete! Results saved to extracted_text.txt
+Processing BYMB8392 вЂ” РєРѕРїРёСЏ.JPG...
+image name: BYMB8392 вЂ” РєРѕРїРёСЏ.JPG
+C L1177 WCO103Extracted text: C L1177 WCO103
+
+Processing РћС€РёР±РєР° СЃ РєРёСЂРёР»РёС†РµР№.png...
+image name: РћС€РёР±РєР° СЃ РєРёСЂРёР»РёС†РµР№.png
+No text extracted from РћС€РёР±РєР° СЃ РєРёСЂРёР»РёС†РµР№.png
+{'BYMB8392 вЂ” РєРѕРїРёСЏ.JPG': 'C L1177 WCO103'}
+image name: BYMB8392 вЂ” РєРѕРїРёСЏ.JPG
+Extracted text:C L1177 WCO103
+Cleaned text:CL1177WCO103
+block(gr1) = C
+level(gr2) = L
+level_num(gr3) = 11
+plot(gr4) = 
+plot_number(gr5) = 77
+window(gr6) = WC0
+window_number(gr7) = 103
+C_L11_Plot_77
+Plot 77 not found on level 11 of block C
+Moved to folder C_L1_Plot_177
+
+Processing complete! Results saved to extracted_text.txt
